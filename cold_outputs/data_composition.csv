@@ -1,0 +1,5 @@
+split,n_images,images_with_cold,background_%,abdomen_%,cold_%
+Train,55,54,78.993,19.822,1.185
+Val,12,12,88.832,10.852,0.316
+Test,12,12,84.162,13.413,2.425
+All,79,78,81.273,17.486,1.241
