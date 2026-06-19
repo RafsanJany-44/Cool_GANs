@@ -1,0 +1,13 @@
+case_id,subject_id,npz_path,n_masks,doctors,body_pixels,cold_pixels,cold_fraction_in_body,cold_fraction_image,valid_case,zero_cold
+S11-A-1,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-A-1.npz,1,GT,12635.0,4483.0,0.35480807281333215,0.05472412109375,True,False
+S11-A-2,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-A-2.npz,1,GT,13155.0,3526.0,0.26803496769268864,0.0430419921875,True,False
+S11-A-3,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-A-3.npz,1,GT,13369.0,4341.0,0.32470641035206466,0.05299072265625,True,False
+S11-B-1,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-B-1.npz,1,GT,11921.0,3542.0,0.2971227246033914,0.0432373046875,True,False
+S11-B-2,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-B-2.npz,1,GT,12088.0,501.0,0.04144606221042236,0.00611572265625,True,False
+S11-B-3,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-B-3.npz,1,GT,12399.0,545.0,0.04395515767397051,0.00665283203125,True,False
+S11-C-1,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-C-1.npz,1,GT,14153.0,1236.0,0.0873313078498641,0.015087890625,True,False
+S11-C-2,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-C-2.npz,1,GT,13424.0,1311.0,0.0976609058402133,0.01600341796875,True,False
+S11-C-3,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-C-3.npz,1,GT,13566.0,1144.0,0.08432846822933486,0.01396484375,True,False
+S11-D-1,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-D-1.npz,1,GT,12807.0,527.0,0.04114937143746299,0.00643310546875,True,False
+S11-D-2,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-D-2.npz,1,GT,13254.0,1309.0,0.09876263769420646,0.01597900390625,True,False
+S11-D-3,S11,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/cache_npz/S11-D-3.npz,1,GT,12922.0,1369.0,0.10594335242214367,0.01671142578125,True,False

@@ -1,0 +1,2 @@
+fold_id,fold_name,model_path,test_subject,val_subject,train_subjects,best_epoch,selected_body_thr,selected_cold_thr,selected_min_cold_cc,val_best_cold_iou_after_sweep,test_body_iou,test_cold_iou,test_cold_sensitivity,test_cold_specificity
+3,fold_03_test_S08_val_S07,THERMO_LOSO_RESULTS/loso_hier_unet_baseline_clean/fold_03_test_S08_val_S07/models/best_fold_03_test_S08_val_S07.pt,S08,S07,"S05,S06,S09,S10,S11",25,0.4,0.75,20,0.16585607878934436,0.9733131220510653,0.16795627582346886,0.8912756769001906,0.9756724892609256
