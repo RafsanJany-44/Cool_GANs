@@ -1,0 +1,16 @@
+item,value
+n_image_files,79
+n_mask_files,79
+n_unique_thermal_image_groups,79
+n_subjects,7
+n_pair_rows,79
+annotation_count_distribution,"{""1"": 79}"
+doctor_ids_detected,UNK
+mean_body_pixels_per_annotation,15507.050632911392
+mean_cold_pixels_per_annotation,1028.5569620253164
+median_cold_pixels_per_annotation,507.0
+mean_cold_fraction_in_body,0.06829235393959
+mean_pairwise_cold_dice,
+mean_pairwise_cold_iou,
+mean_cold_uncertainty,0.0
+n_problem_rows,136

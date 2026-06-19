@@ -1,0 +1,137 @@
+source,audit_case_id,subject_id,doctor_id,doctor_try,image_name,mask_name,body_pixels,cold_pixels,problem_type
+consensus_qc,S05-B-2,S05,,,S05-B-2.bmp,,29231.0,4079.0,unexpected_annotation_count_1
+consensus_qc,S05-B-3,S05,,,S05-B-3.bmp,,29027.0,2324.0,unexpected_annotation_count_1
+consensus_qc,S05-C-1,S05,,,S05-C-1.bmp,,29324.0,871.0,unexpected_annotation_count_1
+consensus_qc,S05-C-2,S05,,,S05-C-2.bmp,,28034.0,554.0,unexpected_annotation_count_1
+consensus_qc,S05-C-3,S05,,,S05-C-3.bmp,,29153.0,608.0,unexpected_annotation_count_1
+consensus_qc,S05-D-1,S05,,,S05-D-1.bmp,,30348.0,304.0,unexpected_annotation_count_1
+consensus_qc,S05-D-2,S05,,,S05-D-2.bmp,,29593.0,568.0,unexpected_annotation_count_1
+consensus_qc,S05-D-3,S05,,,S05-D-3.bmp,,31000.0,1279.0,unexpected_annotation_count_1
+consensus_qc,S06-A-1,S06,,,S06-A-1.bmp,,14788.0,9837.0,unexpected_annotation_count_1
+mask_pixel_qc,S06-A-1,S06,UNK,9,S06-A-1.bmp,Label_9.png,14788.0,9837.0,very_large_cold_fraction_in_body
+consensus_qc,S06-A-2,S06,,,S06-A-2.bmp,,16012.0,708.0,unexpected_annotation_count_1
+consensus_qc,S06-A-3,S06,,,S06-A-3.bmp,,16015.0,982.0,unexpected_annotation_count_1
+consensus_qc,S06-B-1,S06,,,S06-B-1.bmp,,15342.0,396.0,unexpected_annotation_count_1
+consensus_qc,S06-B-2,S06,,,S06-B-2.bmp,,15584.0,813.0,unexpected_annotation_count_1
+consensus_qc,S06-B-3,S06,,,S06-B-3.bmp,,15781.0,875.0,unexpected_annotation_count_1
+consensus_qc,S06-C-1,S06,,,S06-C-1.bmp,,15407.0,193.0,unexpected_annotation_count_1
+consensus_qc,S06-C-2,S06,,,S06-C-2.bmp,,15501.0,315.0,unexpected_annotation_count_1
+consensus_qc,S06-C-3,S06,,,S06-C-3.bmp,,15551.0,335.0,unexpected_annotation_count_1
+consensus_qc,S06-D-1,S06,,,S06-D-1.bmp,,14924.0,490.0,unexpected_annotation_count_1
+consensus_qc,S06-D-3,S06,,,S06-D-3.bmp,,14969.0,482.0,unexpected_annotation_count_1
+consensus_qc,S07-A-1,S07,,,S07-A-1.bmp,,14058.0,1894.0,unexpected_annotation_count_1
+consensus_qc,S07-A-2,S07,,,S07-A-2.bmp,,15557.0,3036.0,unexpected_annotation_count_1
+consensus_qc,S07-A-3,S07,,,S07-A-3.bmp,,16028.0,6765.0,unexpected_annotation_count_1
+consensus_qc,S07-B-1,S07,,,S07-B-1.bmp,,14929.0,454.0,unexpected_annotation_count_1
+consensus_qc,S07-B-2,S07,,,S07-B-2.bmp,,15065.0,636.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-B-2,S07,UNK,24,S07-B-2.bmp,Label_24.png,15065.0,636.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S07-B-3,S07,,,S07-B-3.bmp,,15428.0,833.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-B-3,S07,UNK,25,S07-B-3.bmp,Label_25.png,15428.0,833.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S07-C-1,S07,,,S07-C-1.bmp,,14302.0,1096.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-C-1,S07,UNK,26,S07-C-1.bmp,Label_26.png,14302.0,1096.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S07-C-2,S07,,,S07-C-2.bmp,,14755.0,1695.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-C-2,S07,UNK,27,S07-C-2.bmp,Label_27.png,14755.0,1695.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S07-C-3,S07,,,S07-C-3.bmp,,14643.0,1913.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-C-3,S07,UNK,28,S07-C-3.bmp,Label_28.png,14643.0,1913.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S07-D-1,S07,,,S07-D-1.bmp,,21247.0,172.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-D-1,S07,UNK,29,S07-D-1.bmp,Label_29.png,21247.0,172.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S07-D-2,S07,,,S07-D-2.bmp,,21883.0,134.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-D-2,S07,UNK,30,S07-D-2.bmp,Label_30.png,21883.0,134.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S07-D-3,S07,,,S07-D-3.bmp,,20706.0,103.0,unexpected_annotation_count_1
+mask_pixel_qc,S07-D-3,S07,UNK,31,S07-D-3.bmp,Label_31.png,20706.0,103.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-A-1,S08,,,S08-A-1.bmp,,16134.0,87.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-A-1,S08,UNK,32,S08-A-1.bmp,Label_32.png,16134.0,87.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-A-2,S08,,,S08-A-2.bmp,,16475.0,75.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-A-2,S08,UNK,33,S08-A-2.bmp,Label_33.png,16475.0,75.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-A-3,S08,,,S08-A-3.bmp,,0.0,0.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-A-3,S08,UNK,34,S08-A-3.bmp,Label_34.png,0.0,0.0,"empty_body;empty_cold;shape_mismatch_img(256, 320)_mask(260, 320);empty_body;empty_cold"
+consensus_qc,S08-B-1,S08,,,S08-B-1.bmp,,15901.0,898.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-B-1,S08,UNK,35,S08-B-1.bmp,Label_35.png,15901.0,898.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-B-2,S08,,,S08-B-2.bmp,,15517.0,702.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-B-2,S08,UNK,36,S08-B-2.bmp,Label_36.png,15517.0,702.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-B-3,S08,,,S08-B-3.bmp,,15700.0,946.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-B-3,S08,UNK,37,S08-B-3.bmp,Label_37.png,15700.0,946.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-C-1,S08,,,S08-C-1.bmp,,17165.0,312.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-C-1,S08,UNK,38,S08-C-1.bmp,Label_38.png,17165.0,312.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-C-2,S08,,,S08-C-2.bmp,,20818.0,559.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-C-2,S08,UNK,39,S08-C-2.bmp,Label_39.png,20818.0,559.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-C-3,S08,,,S08-C-3.bmp,,20259.0,541.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-C-3,S08,UNK,40,S08-C-3.bmp,Label_40.png,20259.0,541.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-D-1,S08,,,S08-D-1.bmp,,18712.0,57.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-D-1,S08,UNK,41,S08-D-1.bmp,Label_41.png,18712.0,57.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-D-2,S08,,,S08-D-2.bmp,,18482.0,488.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-D-2,S08,UNK,42,S08-D-2.bmp,Label_42.png,18482.0,488.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S08-D-3,S08,,,S08-D-3.bmp,,17773.0,337.0,unexpected_annotation_count_1
+mask_pixel_qc,S08-D-3,S08,UNK,43,S08-D-3.bmp,Label_43.png,17773.0,337.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-A-1,S09,,,S09-A-1.bmp,,13446.0,141.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-A-1,S09,UNK,44,S09-A-1.bmp,Label_44.png,13446.0,141.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-A-2,S09,,,S09-A-2.bmp,,14172.0,54.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-A-2,S09,UNK,45,S09-A-2.bmp,Label_45.png,14172.0,54.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-A-3,S09,,,S09-A-3.bmp,,13313.0,165.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-A-3,S09,UNK,46,S09-A-3.bmp,Label_46.png,13313.0,165.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-B-1,S09,,,S09-B-1.bmp,,9002.0,180.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-B-1,S09,UNK,47,S09-B-1.bmp,Label_47.png,9002.0,180.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-B-2,S09,,,S09-B-2.bmp,,8115.0,206.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-B-2,S09,UNK,48,S09-B-2.bmp,Label_48.png,8115.0,206.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-B-3,S09,,,S09-B-3.bmp,,8059.0,227.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-B-3,S09,UNK,49,S09-B-3.bmp,Label_49.png,8059.0,227.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-C-1,S09,,,S09-C-1.bmp,,15047.0,507.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-C-1,S09,UNK,50,S09-C-1.bmp,Label_50.png,15047.0,507.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-C-2,S09,,,S09-C-2.bmp,,14962.0,419.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-C-2,S09,UNK,51,S09-C-2.bmp,Label_51.png,14962.0,419.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-C-3,S09,,,S09-C-3.bmp,,14929.0,717.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-C-3,S09,UNK,52,S09-C-3.bmp,Label_52.png,14929.0,717.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-D-1,S09,,,S09-D-1.bmp,,15243.0,269.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-D-1,S09,UNK,53,S09-D-1.bmp,Label_53.png,15243.0,269.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-D-2,S09,,,S09-D-2.bmp,,15885.0,426.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-D-2,S09,UNK,54,S09-D-2.bmp,Label_54.png,15885.0,426.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S09-D-3,S09,,,S09-D-3.bmp,,15632.0,694.0,unexpected_annotation_count_1
+mask_pixel_qc,S09-D-3,S09,UNK,55,S09-D-3.bmp,Label_55.png,15632.0,694.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-A-1,S10,,,S10-A-1.bmp,,8494.0,41.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-A-1,S10,UNK,56,S10-A-1.bmp,Label_56.png,8494.0,41.0,"shape_mismatch_img(256, 320)_mask(260, 320);very_tiny_cold_region"
+consensus_qc,S10-A-2,S10,,,S10-A-2.bmp,,9881.0,41.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-A-2,S10,UNK,57,S10-A-2.bmp,Label_57.png,9881.0,41.0,"shape_mismatch_img(256, 320)_mask(260, 320);very_tiny_cold_region"
+consensus_qc,S10-A-3,S10,,,S10-A-3.bmp,,10059.0,79.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-A-3,S10,UNK,58,S10-A-3.bmp,Label_58.png,10059.0,79.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-B-1,S10,,,S10-B-1.bmp,,8254.0,132.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-B-1,S10,UNK,59,S10-B-1.bmp,Label_59.png,8254.0,132.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-B-2,S10,,,S10-B-2.bmp,,8164.0,500.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-B-2,S10,UNK,60,S10-B-2.bmp,Label_60.png,8164.0,500.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-B-3,S10,,,S10-B-3.bmp,,8159.0,724.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-B-3,S10,UNK,61,S10-B-3.bmp,Label_61.png,8159.0,724.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-C-1,S10,,,S10-C-1.bmp,,10246.0,469.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-C-1,S10,UNK,62,S10-C-1.bmp,Label_62.png,10246.0,469.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-C-2,S10,,,S10-C-2.bmp,,10095.0,336.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-C-2,S10,UNK,63,S10-C-2.bmp,Label_63.png,10095.0,336.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-C-3,S10,,,S10-C-3.bmp,,9961.0,359.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-C-3,S10,UNK,64,S10-C-3.bmp,Label_64.png,9961.0,359.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-D-1,S10,,,S10-D-1.bmp,,9188.0,154.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-D-1,S10,UNK,65,S10-D-1.bmp,Label_65.png,9188.0,154.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-D-2,S10,,,S10-D-2.bmp,,9126.0,99.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-D-2,S10,UNK,66,S10-D-2.bmp,Label_66.png,9126.0,99.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S10-D-3,S10,,,S10-D-3.bmp,,10200.0,187.0,unexpected_annotation_count_1
+mask_pixel_qc,S10-D-3,S10,UNK,67,S10-D-3.bmp,Label_67.png,10200.0,187.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-A-1,S11,,,S11-A-1.bmp,,12832.0,4532.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-A-1,S11,UNK,68,S11-A-1.bmp,Label_68.png,12832.0,4532.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-A-2,S11,,,S11-A-2.bmp,,13375.0,3597.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-A-2,S11,UNK,69,S11-A-2.bmp,Label_69.png,13375.0,3597.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-A-3,S11,,,S11-A-3.bmp,,13597.0,4432.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-A-3,S11,UNK,70,S11-A-3.bmp,Label_70.png,13597.0,4432.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-B-1,S11,,,S11-B-1.bmp,,12113.0,3598.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-B-1,S11,UNK,71,S11-B-1.bmp,Label_71.png,12113.0,3598.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-B-2,S11,,,S11-B-2.bmp,,12283.0,501.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-B-2,S11,UNK,72,S11-B-2.bmp,Label_72.png,12283.0,501.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-B-3,S11,,,S11-B-3.bmp,,12600.0,560.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-B-3,S11,UNK,73,S11-B-3.bmp,Label_73.png,12600.0,560.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-C-1,S11,,,S11-C-1.bmp,,14394.0,1289.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-C-1,S11,UNK,74,S11-C-1.bmp,Label_74.png,14394.0,1289.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-C-2,S11,,,S11-C-2.bmp,,13649.0,1354.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-C-2,S11,UNK,75,S11-C-2.bmp,Label_75.png,13649.0,1354.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-C-3,S11,,,S11-C-3.bmp,,13787.0,1195.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-C-3,S11,UNK,76,S11-C-3.bmp,Label_76.png,13787.0,1195.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-D-1,S11,,,S11-D-1.bmp,,13034.0,545.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-D-1,S11,UNK,77,S11-D-1.bmp,Label_77.png,13034.0,545.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-D-2,S11,,,S11-D-2.bmp,,13489.0,1354.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-D-2,S11,UNK,78,S11-D-2.bmp,Label_78.png,13489.0,1354.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
+consensus_qc,S11-D-3,S11,,,S11-D-3.bmp,,13151.0,1427.0,unexpected_annotation_count_1
+mask_pixel_qc,S11-D-3,S11,UNK,79,S11-D-3.bmp,Label_79.png,13151.0,1427.0,"shape_mismatch_img(256, 320)_mask(260, 320)"
